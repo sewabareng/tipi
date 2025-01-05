@@ -5,7 +5,7 @@
   },
   {
     "name": "Movie Mania Channel",
-    "url": "https://stream2.example.net/movies/action.m3u8"
+    "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/historic_planet_content_2023-10-26-3d-video/main.m3u8"
   },
     {
     "name": "Sports Network HD",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Kids Fun Zone",
-    "url": "https://kids.example.com/stream/cartoons.m3u8"
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
     {
     "name": "Music Hits Radio",
