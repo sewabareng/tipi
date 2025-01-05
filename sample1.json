@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Channel TV Satu",
+    "url": "https://example.com/channel1.m3u8"
+  },
+  {
+    "name": "Channel TV Dua",
+    "url": "https://example.com/channel2.m3u8"
+  },
+  {
+    "name": "Berita Harian",
+    "url": "https://another.example.com/news.mp4"
+  },
+   {
+    "name": "Film Action Keren",
+    "url": "https://yetanother.example.com/action.mov"
+  }
+]
