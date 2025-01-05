@@ -1,9 +1,5 @@
 [
   {
-    "name": "Global News 24",
-    "url": "https://stream1.example.com/live/globalnews.m3u8"
-  },
-  {
     "name": "Movie Mania Channel",
     "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/historic_planet_content_2023-10-26-3d-video/main.m3u8"
   },
