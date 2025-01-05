@@ -1,14 +1,10 @@
 [
   {
-    "name": "Movie Mania Channel",
+    "name": "Channel Sample 1",
     "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/historic_planet_content_2023-10-26-3d-video/main.m3u8"
   },
     {
-    "name": "Sports Network HD",
-    "url": "https://sports.example.org/live/sportshd.m3u8"
-  },
-  {
-    "name": "Kids Fun Zone",
+    "name": "Channel Sample 2",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   }
 ]
